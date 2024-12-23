@@ -1,21 +1,27 @@
-Device tree for Asus Zenfone Live L1 (X00R)
-===========================================
+Device Configuration for Asus Zenfone Lite L1 (ZA551KL)
+=============================
 
-The Asus Zenfone Live L1 (codenamed _"X00R"_) is a mid-range smartphone from Asus.
-It was released on May, 2018.
+The Asus Zenfone Lite L1 (ZA551KL) is a mid-end smartphone from Asus.
 
-| Feature                 | Specification                     |
-| :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 1.4 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8937 Snapdragon 425   |
-| GPU                     | Adreno 308                        |
-| Memory                  | 1/2 GB                            |
-| Shipped Android Version | 8.0.0                             |
-| Storage                 | 32 GB                             |
-| MicroSD                 | upto 256 GB                       |
-| Battery                 | 3000 mAh (non-removable)          |
-| Dimensions              | 147.3 x 71.8 x 8.2 mm             |
-| Display                 | 720 x 1440 pixels, 5.5"  IPS LCD  |
-| Rear Camera             | 13 MP, LED flash                  |
-| Front Camera            | 5 MP , LED flash                  |
-| Release Date            | May 2018                          |
+It was announced and released in oct 2018.
+
+## Device specifications
+
+Basic   | Spec Sheet
+-------:|:-------------------------
+Chipset | Qualcomm MSM8937 Snapdragon 430
+CPU     | Octa-core (4x1.40 GHz Cortex-A53 & 4x1.09 GHz Cortex-A53)
+GPU     | Adreno 505 (450 MHz)
+Memory  | 2 GB RAM (LPDDR3 800 MHz)
+Shipped Android Version | 8.0.0 (zen ui 5.0)
+Storage | 16 (eMMC 5.0/5.1 flash)
+MicroSD | up to 256 GB (uses SIM 2 slot)
+Battery | Li-Po 3000 mAh (Non-removable)
+Dimensions | 139.3 x 69.6 x 8.5 mm
+Display | 720 x 1440 pixels, 18:9 ratio (~295 ppi density), 76.7 cm2 (~72.5% screen-to-body ratio)
+Rear Camera  | 13 MP, f/2.0, 1/3", 1.12µm, PDAF
+Front Camera | 5 MP, f/2.4, 1.12µm
+
+## Device picture
+
+![Asus Zenfone Lite L1 (ZA551KL)](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-2.jpg "Asus Zenfone Lite L1")

@@ -1,9 +1,4 @@
-# Common device tree for Asus MSM8937 devices
+Copyright (C) 2017 - The LineageOS Project
 
-```
-#
-# Copyright (C) 2021 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+Common device tree for ASUS MSM8937 based devices
+==============
